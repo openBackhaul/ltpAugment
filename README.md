@@ -22,6 +22,7 @@
 
 ### YANG File
 - [LtpAugment_1.0.0-tsp.200826.0800a+yang.1](./LtpAugment_1.0.0-tsp.200826.0800a+yang.1.zip)
+- [LtpAugment_1.0.0-tsp.230522.1500+yang.1](./LtpAugment_1.0.0-tsp.230522.1500+yang.1.zip)
 
 ### JSON Schema
 - to be provided
