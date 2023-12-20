@@ -3,22 +3,22 @@
 - Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
 
 ### Branch
-- 1.0.0-tsp.d.t : Model for the Transport SDN Pilot at Telefonica Germany
+- 1.0.0-tsi.d.t : Model for the Transport SDN Pilot at Telefonica Germany
 
 ### UML
-- [LtpAugment_1.0.0-tsp.230524.1910](./LtpAugment_1.0.0-tsp.230524.1910.zip)  
+- [LtpAugment_1.0.0-tsi.240103.1010](./LtpAugment_1.0.0-tsi.240103.1010.zip)  
 
 ### Overview 
-- [LtpAugment_1.0.0-tsp.230524.1910+overview.1](./LtpAugment_1.0.0-tsp.230524.1910+overview.1.png)  
+- [LtpAugment_1.0.0-tsi.240103.1010+overview.1](./LtpAugment_1.0.0-tsi.240103.1010+overview.1.png)  
 
 ### GenDoc Export
-- [LtpAugment_1.0.0-tsp.230524.1910+gendoc.1](./LtpAugment_1.0.0-tsp.230524.1910+gendoc.1.docx)  
+- [LtpAugment_1.0.0-tsi.240103.1010+gendoc.1](./LtpAugment_1.0.0-tsi.240103.1010+gendoc.1.docx)  
 
 ### Augmentation Condition
 - not required
 
 ### YANG File
-- [LtpAugment_1.0.0-tsp.230524.1910+yang.1](./LtpAugment_1.0.0-tsp.230524.1910+yang.1.zip)  
+- [LtpAugment_1.0.0-tsi.240103.1010+yang.1](./LtpAugment_1.0.0-tsi.240103.1010+yang.1.zip)  
 
 ### JSON Schema
 - to be provided
