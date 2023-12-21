@@ -1,6 +1,5 @@
 # ltpAugment
 - Technology agnostic amendment to the LogicalTerminationPoint class, which is required for expressing relations to Equipment and Connector classes as specified in the TransmitterEquipment
-- Thorsten Heinze (Thorsten.Heinze@openBackhaul.com)
 
 ### Branch
 - 1.0.0-tsi.d.t : Model for the Transport SDN Pilot at Telefonica Germany
