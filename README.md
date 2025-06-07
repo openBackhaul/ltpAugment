@@ -6,12 +6,15 @@
 
 ### UML
 - [LtpAugment_1.0.0-tsi.240103.1010](./LtpAugment_1.0.0-tsi.240103.1010.zip)  
+- [LtpAugment_1.1.0-tsi.250607.1630](./LtpAugment_1.1.0-tsi.250607.1630.zip)  
 
 ### Overview 
 - [LtpAugment_1.0.0-tsi.240103.1010+overview.1](./LtpAugment_1.0.0-tsi.240103.1010+overview.1.png)  
+- [LtpAugment_1.1.0-tsi.250607.1630+overview.1](./LtpAugment_1.1.0-tsi.250607.1630+overview.1.png)  
 
 ### GenDoc Export
 - [LtpAugment_1.0.0-tsi.240103.1010+gendoc.1](./LtpAugment_1.0.0-tsi.240103.1010+gendoc.1.docx)  
+- [LtpAugment_1.1.0-tsi.250607.1630+gendoc.1](./LtpAugment_1.1.0-tsi.250607.1630+gendoc.1.docx)  
 
 ### Augmentation Condition
 - not required
@@ -29,10 +32,11 @@
 - to be provided
 
 ### Publication
-- Candidate for ONF TR-532 v2.0 
+- Published in ONF TR-532 v2.0
+- Planned for future LinuxFoundation Specification
 
-### Aspired Model Classification
-- Live Network
+### Achieved Model Classification
+- Operational in Live Network
 
 ### Open Issue List
 - [LtpAugment/issues](../../issues)
