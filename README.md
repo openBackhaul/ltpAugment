@@ -32,8 +32,8 @@
 - to be provided
 
 ### Publication
-- Published in ONF TR-532 v2.0
-- Planned for future LinuxFoundation Specification
+- Published as a part of ONF TR-532 v2.0  
+- Updates planned to be published in future LinuxFoundation Specification  
 
 ### Achieved Model Classification
 - Operational in Live Network
