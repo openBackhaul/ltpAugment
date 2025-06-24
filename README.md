@@ -20,7 +20,8 @@
 - not required
 
 ### YANG File
-- [LtpAugment_1.0.0-tsi.240103.1010+yang.1](./LtpAugment_1.0.0-tsi.240103.1010+yang.1.zip)  
+- [LtpAugment_1.0.0-tsi.240103.1010+yang.1](./LtpAugment_1.0.0-tsi.240103.1010+yang/ltp-augment-1-0.yang)  
+- [LtpAugment_1.1.0-tsi.250607.1630+yang.1](./LtpAugment_1.1.0-tsi.250607.1630+yang/ltp-augment-1-0.yang)  
 
 ### JSON Schema
 - to be provided
