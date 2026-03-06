@@ -7,14 +7,17 @@
 ### UML
 - [LtpAugment_1.0.0-tsi.240103.1010](./LtpAugment_1.0.0-tsi.240103.1010.zip)  
 - [LtpAugment_1.1.0-tsi.250607.1630](./LtpAugment_1.1.0-tsi.250607.1630.zip)  
+- [LtpAugment_1.1.0-ts.260306.1600](./LtpAugment_1.1.0-ts.260306.1600.zip)  
 
 ### Overview 
 - [LtpAugment_1.0.0-tsi.240103.1010+overview.1](./LtpAugment_1.0.0-tsi.240103.1010+overview.1.png)  
 - [LtpAugment_1.1.0-tsi.250607.1630+overview.1](./LtpAugment_1.1.0-tsi.250607.1630+overview.1.png)  
+- [LtpAugment_1.1.0-ts.260306.1600+overview.1](./LtpAugment_1.1.0-ts.260306.1600+overview.1.png)  
 
 ### GenDoc Export
 - [LtpAugment_1.0.0-tsi.240103.1010+gendoc.1](./LtpAugment_1.0.0-tsi.240103.1010+gendoc.1.docx)  
 - [LtpAugment_1.1.0-tsi.250607.1630+gendoc.1](./LtpAugment_1.1.0-tsi.250607.1630+gendoc.1.docx)  
+- [LtpAugment_1.1.0-ts.260306.1600+gendoc.1](./LtpAugment_1.1.0-ts.260306.1600+gendoc.1.docx)  
 
 ### Augmentation Condition
 - not required
@@ -22,6 +25,7 @@
 ### YANG File
 - [LtpAugment_1.0.0-tsi.240103.1010+yang.1](./LtpAugment_1.0.0-tsi.240103.1010+yang/ltp-augment-1-0.yang)  
 - [LtpAugment_1.1.0-tsi.250607.1630+yang.1](./LtpAugment_1.1.0-tsi.250607.1630+yang/ltp-augment-1-0.yang)  
+- [LtpAugment_1.1.0-ts.260306.1600+yang.1](./LtpAugment_1.1.0-ts.260306.1600+yang/ltp-augment-1-0.yang)  
 
 ### JSON Schema
 - to be provided
