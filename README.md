@@ -2,7 +2,7 @@
 - Technology agnostic amendment to the LogicalTerminationPoint class, which is required for expressing relations to Equipment and Connector classes as specified in the TransmitterEquipment
 
 ### Branch
-- 1.0.0-tsi.d.t : Model for the Transport SDN Pilot at Telefonica Germany
+- 1.1.0-ts.d.t : Model for the Transport SDN at Telefonica Germany
 
 ### UML
 - [LtpAugment_1.0.0-tsi.240103.1010](./LtpAugment_1.0.0-tsi.240103.1010.zip)  
@@ -33,8 +33,8 @@
 - to be provided
 
 ### Publication
-- Published as a part of ONF TR-532 v2.0  
-- Updates planned to be published in future LinuxFoundation Specification  
+- LtpAugment_1.0.0-tsi.240103.1010 published as a part of ONF TR-532 v2.0  
+- LtpAugment_1.1.0-ts.d.t planned to be published in future LinuxFoundation Specification  
 
 ### Achieved Model Classification
 - Operational in Live Network
